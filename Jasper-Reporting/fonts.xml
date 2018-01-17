@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fontFamilies>
+
+	<fontFamily name="FreeUniversal">
+		<normal>com/jasper/font/FreeUniversal-Regular.ttf</normal>
+		<bold>com/jasper/font/FreeUniversal-Bold.ttf</bold>
+		<italic>com/jasper/font/FreeUniversal-Italic.ttf</italic>
+		<boldItalic>com/jasper/font/FreeUniversal-BoldItalic.ttf</boldItalic>
+		<pdfEncoding>Cp1252</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	
+	<fontFamily name="SakalBharati">
+		<normal>com/jasper/font/SakalBharati_N_Ship.ttf</normal>
+		<bold>com/jasper/font/SakalBharati_N_Ship.ttf</bold>
+		<italic>com/jasper/font/SakalBharati_N_Ship.ttf</italic>
+		<boldItalic>com/jasper/font/SakalBharati_N_Ship.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	
+	<fontFamily name="ArialUnicodeMS">
+		<normal>com/jasper/font/ARIALUNI.TTF</normal>
+		<bold>com/jasper/font/ARIALUNI.TTF</bold>
+		<italic>com/jasper/font/ARIALUNI.TTF</italic>
+		<boldItalic>com/jasper/font/ARIALUNI.TTF</boldItalic>
+		<pdfEncoding>Cp1252</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	
+	<fontFamily name="Shivaji">
+		<normal>com/jasper/font/Shivaji.ttf</normal>
+		<bold>com/jasper/font/Shivaji.ttf</bold>
+		<italic>com/jasper/font/Shivaji.ttf</italic>
+		<boldItalic>com/jasper/font/Shivaji.ttf</boldItalic>
+		<pdfEncoding>UTF-8</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	
+	
+	<fontFamily name="Mangal">
+		<normal>com/jasper/font/MANGAL.TTF</normal>
+		<bold>com/jasper/font/MANGAL.TTF</bold>
+		<italic>com/jasper/font/MANGAL.TTF</italic>
+		<boldItalic>com/jasper/font/MANGAL.TTF</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+
+
+</fontFamilies>

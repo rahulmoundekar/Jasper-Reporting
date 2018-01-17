@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/avalon-framework-impl-4.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/barbecue-1.5-beta1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/barcode4j-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/batik-anim-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/batik-awt-util-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/batik-bridge-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/batik-css-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/batik-dom-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/batik-ext-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/batik-gvt-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/batik-parser-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/batik-script-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/batik-svg-dom-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/batik-util-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/batik-xml-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/bcprov-jdk14-138.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/commons-beanutils-1.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/ecj-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/itext-2.1.7.js2.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/jackson-annotations-2.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/jackson-core-2.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/jackson-databind-2.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/jasperreports-6.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/json-20080701.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/jxl-2.6.10.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/poi-3.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/spring-beans-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/spring-core-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/lib/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/dynamicreports-adhoc-4.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/dynamicreports-core-4.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/dynamicreports-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/jasper jar/dynamicreports-googlecharts-4.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR/mysql-connector-java-5.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
